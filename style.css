@@ -90,3 +90,29 @@ p {
         margin-bottom: 30px;
     }
 }
+
+#about {
+    background-color: #e8f0fe;
+    border-left: 5px solid #1a73e8;
+    padding: 25px;
+}
+
+#skills {
+    background-color: #fff8e1;
+    border-radius: 10px;
+    box-shadow: 0 3ox 8px rgba(0,0,0,0.08);
+    padding: 25px;
+}
+
+#projects {
+    background-color: #f0f4f8;
+    border-left: 5 px solid #1a73e8;
+    padding: 25px;
+}
+
+#contact {
+    background-color: #fff; 
+    border-radius: 8px;
+    padding: 25px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
