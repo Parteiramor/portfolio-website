@@ -70,3 +70,8 @@ a {
 a:hover {
     color: #0b59c1;
 }
+
+p {
+    color: #333;
+    font-size: 1rem;
+}
